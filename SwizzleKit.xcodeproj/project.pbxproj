@@ -23,6 +23,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		AA1573061D1193C6000DE900 /* Example.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Example.playground; sourceTree = "<group>"; };
 		__PBXFileRef_Package.swift /* Package.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Package.swift; sourceTree = "<group>"; };
 		__PBXFileRef_Sources/Swizzleable.swift /* Swizzleable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swizzleable.swift; sourceTree = "<group>"; };
 		__PBXFileRef_SwizzleKit.xcodeproj/Configs/Project.xcconfig /* Project.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; name = Project.xcconfig; path = SwizzleKit.xcodeproj/Configs/Project.xcconfig; sourceTree = "<group>"; };
@@ -64,6 +65,7 @@
 			isa = PBXGroup;
 			children = (
 				__PBXFileRef_Package.swift /* Package.swift */,
+				AA1573061D1193C6000DE900 /* Example.playground */,
 				"_____Configs_" /* Configs */,
 				"_____Sources_" /* Sources */,
 				"_______Tests_" /* Tests */,

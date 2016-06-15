@@ -48,4 +48,3 @@ internal func blockify(_ closure: () -> ()) -> AnyObject {
   
   return unsafeBitCast(block, to: AnyObject.self)
 }
-
